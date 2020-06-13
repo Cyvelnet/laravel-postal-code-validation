@@ -2,11 +2,10 @@
 Worldwide postal code validation for Laravel
 
 <p align="center">
-    <a href="https://travis-ci.org/axlon/laravel-postal-code-validation"><img src="https://travis-ci.org/axlon/laravel-postal-code-validation.svg?branch=master"></a>
+    <a href="https://travis-ci.org/axlon/laravel-postal-code-validation"><img src="https://travis-ci.org/axlon/laravel-postal-code-validation.svg?branch=1.x"></a>
     <a href="https://packagist.org/packages/axlon/laravel-postal-code-validation"><img src="https://poser.pugx.org/axlon/laravel-postal-code-validation/downloads"></a>
     <a href="https://packagist.org/packages/axlon/laravel-postal-code-validation"><img src="https://poser.pugx.org/axlon/laravel-postal-code-validation/version"></a>
-    <a href="https://scrutinizer-ci.com/g/axlon/laravel-postal-code-validation"><img src="https://scrutinizer-ci.com/g/axlon/laravel-postal-code-validation/badges/coverage.png?b=master"></a>
-    <a href="https://packagist.org/packages/axlon/laravel-postal-code-validation"><img src="https://poser.pugx.org/axlon/laravel-postal-code-validation/license"></a>
+    <a href="LICENSE"><img src="https://poser.pugx.org/axlon/laravel-postal-code-validation/license"></a>
 </p>
 
 ## Installation
